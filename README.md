@@ -3,7 +3,6 @@
 A simple assertion tool.
 
 [![GoDoc](https://img.shields.io/badge/godoc-reference-blue.svg)](https://godoc.org/github.com/chiku/assert)
-[![Coverage Status](https://img.shields.io/badge/Coverage-Run-green.svg)](http://gocover.io/github.com/chiku/assert)
 [![Software License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/chiku/assert/blob/master/LICENSE)
 
 Documentation
